@@ -1,6 +1,6 @@
 ﻿# DTLSharp
 ## Description
-DTLSharp is a C# library for [Dundeon Template Library](https://github.com/AsPJT/DungeonTemplateLibrary/).
+DTLSharp is a C# library for [Dungeon Template Library](https://github.com/AsPJT/DungeonTemplateLibrary/).
 
 The code for this library is modified from the [DTLUnity](https://github.com/sitRyo/DungeonTemplateLibraryUnity) project. What I've done here is removed all the references and dependencies on Unity so that DTL can be used in any .NET environment.
 
